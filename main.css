@@ -29,6 +29,9 @@ html {
 [class~=header_list] {
 	margin-top:10px;
 }
+[class~=header_list] {
+	margin-left:95ch;
+}
 #box {
 	height:28.125pc;
 }
@@ -194,6 +197,9 @@ html {
 }
 html {
 	height:100%;
+}
+[class~=header]>img {
+	width:2.225pc;
 }
 [class~=back] {
 	display:block;
@@ -426,7 +432,7 @@ progress {
 		height:0.95in;
 	}
 	.header_list {
-		margin-left:35px;
+		margin-left:45px;
 	}
 	#box {
 		box-shadow:0in 0px .1875pc -.3125pc grey;
