@@ -29,9 +29,6 @@ html {
 [class~=header_list] {
 	margin-top:10px;
 }
-[class~=header_list] {
-	margin-left:95ch;
-}
 #box {
 	height:28.125pc;
 }
@@ -198,14 +195,11 @@ html {
 html {
 	height:100%;
 }
-[class~=header]>img {
-	width:2.225pc;
-}
 [class~=back] {
 	display:block;
 }
 [class~=header]>img,#footer {
-	height:.420833333in;
+	height:.520833333in;
 }
 #footer,html {
 	width:100%;
@@ -431,9 +425,6 @@ progress {
 	[class~=QR_Code]>img {
 		height:0.95in;
 	}
-	.header_list {
-		margin-left:45px;
-	}
 	#box {
 		box-shadow:0in 0px .1875pc -.3125pc grey;
 	}
@@ -507,7 +498,7 @@ progress {
 		border-left-style:solid;
 	}
 	#box>img {
-		top:10ch;
+		top:11.5ch;
 	}
 	#box {
 		border-bottom-style:solid;
